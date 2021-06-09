@@ -6,6 +6,14 @@ import (
 	"os"
 )
 
+<!-- this has to deleted after -->
+import (
+	"fmt"
+	"log"
+	"os"
+)
+
+
 func main() {
 	file, err := os.Create("index.jsp")
 	if err != nil {
