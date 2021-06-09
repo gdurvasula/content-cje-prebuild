@@ -6,12 +6,6 @@ import (
 	"os"
 )
 
-<!-- this has to deleted after -->
-import (
-	"fmt"
-	"log"
-	"os"
-)
 
 
 func main() {
